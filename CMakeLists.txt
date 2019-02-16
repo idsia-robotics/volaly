@@ -8,9 +8,11 @@ project(volaly)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
+  volaly_gestures
   volaly_kinematics
   volaly_localization
   volaly_msgs
+  volaly_robots
   volaly_supervisor
 )
 
@@ -106,7 +108,7 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES volaly
-#  CATKIN_DEPENDS volaly_kinematics volaly_localization volaly_msgs volaly_supervisor
+#  CATKIN_DEPENDS volaly_gestures volaly_kinematics volaly_localization volaly_msgs volaly_robots volaly_supervisor
 #  DEPENDS system_lib
 )
 
