@@ -38,6 +38,9 @@ The next video demonstrates the new method that allows one to control quadrotors
 
 More details available at: http://people.idsia.ch/~gromov/3d-control
 
+## Authors
+
+[Boris Gromov](http://people.idsia.ch/~gromov), [Jérôme Guzzi](https://github.com/jeguzzi), and [Alessandro Giusti](http://people.idsia.ch/~giusti).
 
 ## Publications
 
