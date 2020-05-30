@@ -25,7 +25,7 @@ The following video gives an overview of pointing-based interaction and its appl
   </a>
 </p>
 
-More details available at: http://people.idsia.ch/~gromov/proximity-hri-pipeline/
+More details available at: http://people.idsia.ch/~gromov/proximity-hri-pipeline
 
 ### Free 3D space
 The next video demonstrates the new method that allows one to control quadrotors also in free 3D space (implemented in `volaly_kinematics`).
@@ -36,7 +36,7 @@ The next video demonstrates the new method that allows one to control quadrotors
   </a>
 </p>
 
-More details available at: http://people.idsia.ch/~gromov/3d-control
+More details available at: http://people.idsia.ch/~gromov/3d-pointing
 
 ## Authors
 
